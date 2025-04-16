@@ -2,6 +2,11 @@
 {{ partial "profile.html" . }}
 
 <div id="list-page">
+    <form action="{{ absURL "search" }}" method="GET">
+        <input type="search" name="q" id="search-query" placeholder="Search....">
+        <button type="submit">Search</button>
+    </form>
+
     {{/* tutaj niech będa tylko wnioski przeterminowane */}}
     {{/* oraz odnosnik pokaż wszystkie */}}
     {{ $pages := where .Site.RegularPages "Section" "index" }}
@@ -31,7 +36,7 @@
         {{ with .Params.tags }}
         <div class="tags">
             {{ range . }}
-            <a href="{{ " tags/" | absURL }}{{ . | urlize }}">{{ . }}</a>
+            <a href="{{ "tags/" | absURL }}{{ . | urlize }}">{{ . }}</a>
             {{ end }}
         </div>
         {{ end }}
