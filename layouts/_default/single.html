@@ -33,6 +33,17 @@
         <a href="{{ .Params.source }}" target="_blank">Otwórz oryginalny wniosek (PDF) w nowym oknie</a>
     </div>
 
+    {{ with .Params.geolinks }}
+        <div>
+            <div>Odnośniki do geoportalu</div>
+            <ul>
+            {{ range . }}
+            <li><a href="{{ . }}" target="_blank">{{ . }}</a>
+            {{ end }}
+            </ul>
+        </div>
+    {{ end }}
+
     {{ with .Params.tags }}
         <div class="tags">
             {{ range . }}
