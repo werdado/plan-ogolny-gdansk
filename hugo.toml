@@ -15,4 +15,4 @@ title = 'Wnioski do Planu Ogólnego / Gdańsk'
 
 [params]
     index = "Rejestr wniosków"
-    avatarImg = "/images/werdado_sign.png"
+    avatarImg = "/plan-ogolny-gdansk/images/werdado_sign.png"
