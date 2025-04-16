@@ -19,7 +19,12 @@
         </div>
 
         {{ if ne .Site.Params.hiddenPostSummaryInHomePage true }}
-        <div class="summary">{{ $summary | safeHTML | truncate 300 | plainify | htmlUnescape }}</div>
+        <div class="summary">
+            {{ $summary | safeHTML | truncate 300 | plainify | htmlUnescape }}
+            <ul>
+            <li><a href="{{ .Params.source }}" target="_blank">PDF wniosku (w nowym oknie)</a>
+            </ul>
+        </div>
         {{ end }}
 
         {{/* todo: termin odpowiedzi + jednozdaniowy opis zapytania */}}
