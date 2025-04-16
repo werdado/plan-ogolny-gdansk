@@ -2,7 +2,7 @@
 title = "Szczegóły wniosku W5529"
 date = "2024-09-02"
 source = "https://bip.brg.gda.pl/images/uploads/wnioski-do-planu-ogolnego/w5529_eb1b7ae9d634.pdf"
-tags = ["wnioski-ogolne"]
+tags = ["obręb: 0098", "wnioski-ogolne"]
 geolinks = []
 raw = "WNIOSKUJĘ O UWZGLĘDNIENIE WNIOSKÓW W TWORZONYM PLANIE OGÓLNYM GMINY MIASTA GDAŃSK W ZAKRESIE ZAPISÓW SZCZEGÓŁOWYCH DLA DZIAŁEK NR 21, 24, 25, 26, 23/1, 23/2, 116/2 OBR. 098, PRZY UL. TRAKT ŚW. WOJCIECHA 31/37 W GDAŃSKU Z UWAGI NA ROSNĄCE POTRZEBY DOTYCZĄCE POWIERZCHNI BUDYNKÓW WYMIARU SPRAWIEDLIWOŚCI (DZIAŁKI W TRWAŁYM ZARZĄDZIE SĄDU REJONOWEGO W GDAŃSKU — REJON PÓŁNOC) ZGODNIE Z PUNKTEM "
 +++

@@ -2,7 +2,7 @@
 title = "Szczegóły wniosku W1337"
 date = "2024-06-11"
 source = "https://bip.brg.gda.pl/images/uploads/wnioski-do-planu-ogolnego/w1337.pdf"
-tags = ["wnioski-ogolne", "obręb: 0301"]
+tags = ["obręb: 0110", "obręb: 0130", "wnioski-ogolne", "obręb: 0129", "obręb: 0128", "obręb: 0127", "obręb: 0116", "obręb: 0126", "obręb: 0115", "obręb: 0301", "obręb: 0125", "obręb: 0300"]
 geolinks = []
 raw = "Wnoszę o ustalenie w planie ogólnym dla działek lub części działek nr: 231/11, 231/12, 231/13, 231/14, 360/2, 360/4, 229/4, 197/4, 194/3, 194/4, 188/4, 187/1, 186/15, 184/2, 184/1, 183/7, 183/8, 183/4, 183/5, 156/2, 155/2, 171/2, 170/2, 165/8, 161/2, obr. 301; 81, 86, 41, 51, 52, obr. 130; 46, obr. 129; 63/2,60, 57, obr. 128; 20, 16, 21, 24, 30, 41, 45, 48, obr. 127; 11/2, 18, 22, 25, obr. 126; 86, 85, 81, 78, 52, 34, 36, 21, obr. 125; 63, 64, obr. 110; 198/2, 202/8, obr. 300; 292/3, 231/10, 360/1, 288, 229/3, 227/1, 227/2, 1952, 195/3, 195/4, 285/7, 197/3, 282/8, 273/2, 192/2, 188/6, 188/7, 188/3, 187/2, 186/12, 186/14, 275, 185/1, 185/2, 277/2, 277/1,156/1, 244/8, 155/1, 192/3, 190/1, 190/3, 276/9, 178/3, 179/4,297/6, 177/8, 175, 174/2, 174/1, 172/1, 172/2, 280/2, 165/5, obr.301; 145/2, obr. 116, 241/3, 238/2, obr. 115, 78, 79, 44, 43, obr. 130; 1, 43, obr. 129; 1, 8, 26, 1, 62, 63/1, 63/3, 69, obr. 127; 2, 3, 4/2,11/1, 19, 20, 23, 37, 38, obr. 126; 92, 80, 176, 60, obr. 125 dla przebiegu trzech kolektorów tłocznych o średnicy 1,2 m żel., 1,2 m żel./stal oraz 1,2 m GRP dopływowych z PŚ Ołowianka oraz PŚ Motława do OŚ Gdańsk Wschód strefy infrastrukturalnej. "
 +++
