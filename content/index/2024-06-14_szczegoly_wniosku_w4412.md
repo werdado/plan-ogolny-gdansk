@@ -1,0 +1,24 @@
++++
+title = "Szczegóły wniosku W4412"
+date = "2024-06-14"
+source = "https://bip.brg.gda.pl/images/uploads/wnioski-do-planu-ogolnego/w4412.pdf"
+tags = ["wnioski-ogolne", "obręb: 0025"]
+geolinks = []
+raw = "Wnoszę o objęcie działek nr 248 obręb 0025 strefą zieleni i rekreacji. Jest to teren rodzinnego ogrodu działkowego (ROD), który przynależy do w/w strefy. Zgodnie z ustawą O p 24%. c, ROD, jako stały element infrastruktury gmin, ogrody winny być uwzględniane w ich rozwoju, a organy gmin tworzyć do tego warunki, Objęcie w/w strefą umożliwi ujawnienie ROD w mpzp, co przełoży się na prawą 590 działkowców i ich rodzin. Stabilizacja prawna będzie sprzyjać podnoszeniu standardu ogrodu ROD - ryzyko likwidacji zniechęca ludzi do inwestowania w swoje działki. Ogrody ROD są obszarem o wysokiej bioróżnorodności. Są też ważnym elementem infrastruktury zielonej gminy i pełnią istotne funkcje społeczne: wsparcia socjalnego, integracji lokalnej społeczności, Integracji międzypokoleniowej, aktywizacji seniorów, edukacji przyrodniczej dzieci, czy promocji zdrowego stylu życia. "
++++
+
+Wnoszę o objęcie działek nr 248 obręb 0025 strefą zieleni i rekreacji. Jest to teren
+rodzinnego ogrodu działkowego (ROD), który przynależy do w/w strefy. Zgodnie z ustawą O
+p 24%.
+c,
+ROD, jako stały element infrastruktury gmin, ogrody winny być uwzględniane w ich rozwoju, a
+organy gmin tworzyć do tego warunki, Objęcie w/w strefą umożliwi ujawnienie ROD w mpzp, co
+przełoży się na prawą 590 działkowców i ich rodzin. Stabilizacja prawna będzie sprzyjać
+podnoszeniu standardu ogrodu ROD - ryzyko likwidacji zniechęca ludzi do inwestowania w swoje
+działki. Ogrody ROD są obszarem o wysokiej bioróżnorodności. Są też ważnym elementem
+infrastruktury zielonej gminy i pełnią istotne funkcje społeczne: wsparcia socjalnego, integracji
+lokalnej społeczności, Integracji międzypokoleniowej, aktywizacji seniorów, edukacji
+przyrodniczej dzieci, czy promocji zdrowego stylu życia.
+
+
+

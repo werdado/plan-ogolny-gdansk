@@ -1,0 +1,15 @@
++++
+title = "Szczegóły wniosku W327"
+date = "2024-05-27"
+source = "https://bip.brg.gda.pl/images/uploads/wnioski-do-planu-ogolnego/w327_420168487b77.pdf"
+tags = ["wnioski-ogolne"]
+geolinks = []
+raw = "WNOSZĘ O ROZSZERZENIE PRZEZNACZENIA MOICH DZIAŁEK Z ROLNYCH O FUNKCJE MIESZKANIOWO USŁUGOWĄ NR DZIAŁEK 157/1 .157/2. 119. 118/3. 118/2. 118/1. 114/1. 114/2. 114/3. 114/4. 114/5. 67. 68/1. 44/3. 44/4. 80. OBRĘB 130 "
++++
+
+WNOSZĘ O ROZSZERZENIE PRZEZNACZENIA MOICH DZIAŁEK Z ROLNYCH O FUNKCJE
+MIESZKANIOWO USŁUGOWĄ NR DZIAŁEK 157/1 .157/2. 119. 118/3. 118/2. 118/1. 114/1. 114/2.
+114/3. 114/4. 114/5. 67. 68/1. 44/3. 44/4. 80. OBRĘB 130
+
+
+

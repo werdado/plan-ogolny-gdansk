@@ -1,0 +1,24 @@
++++
+title = "Szczegóły wniosku W1568"
+date = "2024-06-12"
+source = "https://bip.brg.gda.pl/images/uploads/wnioski-do-planu-ogolnego/w1568.pdf"
+tags = ["wnioski-ogolne", "obręb: 0303"]
+geolinks = []
+raw = "Wniosek dotyczy działek nr 653/41, 653/43, 654/36, 1246 i 1330, obręb 0303 w Gdańsku. Działki te stanowią część płatu OSTAB i są w rejonie ciągu OSTAB łączącego Jar Wilanowski z planowanym parkiem Sikorskiego ($tudium uwarunkowań i kierunków zagospodarowania przestrzennego miasta Gdańska Uchwała Nr LI/1506/18 RADY MIASTA GDANSKA z dnia 23.04 2018 roku zmieniona uchwałą Nr XII/218/19 z dnia 27.06. 2019 r. ). Wnioskuję żeby zachować ten leren jako obszar cenny pod względem przyrodniczym I estetycznym ponieważ jest to jeden z niewielu terenów zielonych w rejonie o dużej gęstości zaludnienia. Tereny łączące nie mogą być jedynie wąskimi korytarzami lub ścieżkami pomiędzy płatarni OSTAB, a powinny tworzyć małe rozsiane skwery zieleni. Wnioskuję żeby na wymienionych działkach wykluczyć zabudowę usługową komercyjną i publiczną, usługi których powierzchnia użytkowa przekracza 100m2, usługi zajmujące w całości budynki wolnostojące i powodujące uciążliwość dla funkcji mieszkaniowej. "
++++
+
+Wniosek dotyczy działek nr 653/41, 653/43, 654/36, 1246 i 1330, obręb 0303 w
+Gdańsku. Działki te stanowią część płatu OSTAB i są w rejonie ciągu OSTAB łączącego Jar
+Wilanowski z planowanym parkiem Sikorskiego ($tudium uwarunkowań i kierunków
+zagospodarowania przestrzennego miasta Gdańska Uchwała Nr LI/1506/18 RADY MIASTA
+GDANSKA z dnia 23.04 2018 roku zmieniona uchwałą Nr XII/218/19 z dnia 27.06. 2019 r. ).
+Wnioskuję żeby zachować ten leren jako obszar cenny pod względem przyrodniczym I
+estetycznym ponieważ jest to jeden z niewielu terenów zielonych w rejonie o dużej gęstości
+zaludnienia. Tereny łączące nie mogą być jedynie wąskimi korytarzami lub ścieżkami pomiędzy
+płatarni OSTAB, a powinny tworzyć małe rozsiane skwery zieleni. Wnioskuję żeby na
+wymienionych działkach wykluczyć zabudowę usługową komercyjną i publiczną, usługi których
+powierzchnia użytkowa przekracza 100m2, usługi zajmujące w całości budynki wolnostojące i
+powodujące uciążliwość dla funkcji mieszkaniowej.
+
+
+

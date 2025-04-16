@@ -1,9 +1,8 @@
-# baseURL = '${site.getBaseUrl()}'
-baseURL = 'http://example.com'
+baseURL = 'https://plan-ogolny-gdansk.github.io'
 defaultContentLanguage = 'pl'
 languageCode = 'pl_PL'
 
-title = '${site.getTitle()}'
+title = 'Wnioski do Planu Ogólnego / Gdańsk'
 
 [markup]
     [markup.goldmark.renderer]
@@ -15,6 +14,5 @@ title = '${site.getTitle()}'
   taxonomy = ['html']
 
 [params]
-    index = "Rejestr"
-    about = "Czym jest werdado?"
+    index = "Rejestr wniosków"
     avatarImg = "/images/werdado_sign.png"

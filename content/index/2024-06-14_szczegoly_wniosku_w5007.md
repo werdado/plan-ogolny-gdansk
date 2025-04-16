@@ -1,0 +1,29 @@
++++
+title = "Szczegóły wniosku W5007"
+date = "2024-06-14"
+source = "https://bip.brg.gda.pl/images/uploads/wnioski-do-planu-ogolnego/w5007.pdf"
+tags = ["wnioski-ogolne"]
+geolinks = []
+raw = "lm ) a m i małża zza m lotkęy goal FAT' - E. R FFA „* - rismo dotyczące aktu pianowańnia przestrzennego I KPIKLJFAIE, LF X MJIMUL a MM la. ŁU I „I  A/T I U . a PIUE 7 *  Nazwa Py czy ke M i shy Gda usb (< 3. RODZAJ AKTU PLANOWANIA PRZESTRZENNEGO” a 34 fa' ogólny gw pa '. ALMEDS LL PAR RES UNLECENLJI SRLA DAJĄCEGO PISMO re Jica Nr domu Nr lokalu ; : =. JĄ E BEL Fa Fa *AFIIL/ A buy IN ł ze Ep f. TRESG PISMA BETSTO iż „MU za Lae 7 2 polą AT GG tr 'Pla--2) PYASAA HA aaozalc1 7 + 71 Treść W nóżtę w:óbjgiie, dhiatd,. 42 (80, 104, tkó 188, 139 ,168, 263.146 obieśb POSkshzhzwielódi i reke, Jest teen rodziwtejęo aqved dłżecilonejo ROD, kkGy RZ ttkotyks sk Zgodnie z usiawą o ROD jako stały siement infrastruktury gmin, ogrody winny być uwzględniane w i rozwoju, ż a organy gmin tworzyć do iego warunki. Objęcie wdw strefą urmożliwi ujawnienie ROD w mpzp, co przełoży się na prawa 1115 rodzin - działkowców. Objęcie strefą zakazującą ujawnienia RÓD w mpzp grozioby jego likwidacją (art. 19 ust. 2 ustawy o ROD). Stabilizacja prawna będzie sprzyjała podnoszeniu standardu ROD - ryzyko likwidacji zniechęci do inwestowania w działki. RÓD są obszarem o wysakiej bioróżnorodności. ich ochrona planistyczna realizuje prawo UE oraz krajowe; są ważnym element infrastruktury zielonej gminy; służą realizacji zadań gminy, pełniąc istotne funkcje społeczne: wsparcia socjalnego, inżegracji społeczności łokalnej i międzypokolłeniowej, aktywizacji seniorów, edukacji sakalogicznej dzieci, promocji zdrowego trybu życia. 7.2 (Nieobowiązkowo) W przypadku wypełnienia, należy uzupełnić każdą z kolumn tabeli. Szczegółowe informacje dotyczące treści pisma w odniesieniu do działek ewidencyjnych: 7.2.1 Nazwa 2.2. 7.2.3. Czyteren 7.2.4. Treść?) aktu planowania Identyfikator objęty pismem  Lp.  przestrzennego działki lub obejmuje całość  działek działki lub działek  ewidencyjnych ewidencyjnych”  7.3. (Nieobowiązkowo) W przypadku wypełnienia, należy uzupełnić każdą z kolumn tabeli. Szczegółowe informacje dotyczące działek ewidencyjnych oraz niektórych parametrów — w przypadku zaznaczenia w pkt 2: wniosku do projektu aktu (pkt 2.1), uwagi do konsultowanego projektu aktu (pkt 2.2) lub wniosku o zmianę aktu (pkt 2.3) oraz w pkt 3: planu ogólnego gminy (skt 3.1) lub miejscowego planu zagospodarowania przestrzennego, w tym zintegrowanego planu inwestycyjnego iuo miejscowego planu rewitalizacji (pkt 3.2):  7.3.1 Nazwa planu 7.3.2. 7.3,3.Czy  7.3.4. Nazwa lub 7.3.5.  7.3.6. 7.3.7.  ogólnego gminy Identyfikator teren objęty nazwy klasy Maksymalny Maksymalna Minirnalny lub działki lub „_ plsmem  przeznaczenia udział wysokość  udział miejscowego panu dzialek obejmujs taranu (alba powierzchni  zabudowy m powierzchni m o dda zagospodarowania ewidencyjnych  całość działki  symbol lub zabudowy %  biologicznie prźestrzEniegu  u RZTBRUN = ypieyftiEnpetępegn 'nnn > — p—lżiNiiej-ś0y I  ewidencyjnych  przeznaczenia I  7) terenujó) Na  8. OŚWIADCZENIE W SPRAWIE KORESPONDENCJI ELEKTRONICZNEJ  L Wyrażam zgodę Li Nie wyrażam zgody na doręczanie korespondencji w niniejszej sprawie za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344). 9. ZAŁĄCZNIKI z Ff - Pełnomocnictwo do reprezentowania składającego pismo luk pełnomocnictwo do doręczeń (zgodnie z ustawą z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2023 r. poz. 2111)) — jeżeli składający pismo działa przez pełnomocnika. I Potwierdzenie uiszczenia opłaty skarbowej od pełnomocnictwa — jeżeli obowiązek uiszczenia takiej opłaty wynika z ustawy z dnia 16 listopada 2006 r o opłacie skarbowej. =:  „i (Nieobowiązkowo). Określenie granic terenu w formle graficznej w przypadku wskazania terenu objętego pismem jako części działki ewidencyjnej lub działek ewidencyjnych. iA (Niecbowiązkowo)j. nne załączniki — w. przypadku zaznaczenia pola należy padać nazwy załączników,” 10. PODPIS SKŁADAJĄCEGO PISMO (PELNOMOCNIKA) I DATA PODPISU Podpis powini E czy dpi j się w przypadku składania pisma w postaci papierowej. Podpis: . A Data: AM206 2DZY . "
++++
+
+Akt dotyczący planowania przestrzennego
+
+Nazwa: Plan Generalny Miasta Gdańsk
+Rodzaj aktu planowania przestrzennego: ogólny
+Adres:
+ul. Almeda 34, g. Lecenlwj srła
+Nr domu: 7
+Nr lokalu: 2
+Treść pisma:
+W kontekście akcentowania utworzenia Gdyni jako obszaru urbanistycznego, rekomendujemy uwzględnienie ogrodów w rozwoju, a organy miasta powinny stworzyć do tego warunki. Ujęcie obszarów rekreacyjno-ogrodowych w planie zagospodarowania przestrzennego (MPZP) pozwoli na ujawnienie tych obszarów, co przekłada się na prawa i korzyści dla rodzin - działkowców. Wyłączenie obszarów związanych z ogrodami z MPZP grozi ich likwidacją, co może stanowić zagrożenie dla stabilności prawnej oraz zniechęcać do inwestowania w nieruchomości. Ogrody są obszarami o wysokiej bioróżnorodności. Ich ochrona służy zgodnie z prawodawstwem Unii Europejskiej oraz Krajowym, stanowią istotny element infrastruktury zielonej miasta, realizując ważne funkcje społeczne takie jak wsparcie społeczne, integrację społeczności lokalnej i międzypokoleniowej, aktywizację seniorów, edukację ekologiczną dzieci oraz promocję zdrowego stylu życia.
+
+Formularz wypełnienia informacji dotyczących działek ewidencyjnych:
+Nazwa aktu planowania przestrzennego: Akt Identyfikator objęty pismem: 2
+Nr. Lp. działań lub działki ewidencyjne:
+1. Nazwa działki lub działek ewidencyjnych: 
+2. Czy objęte pismem: całość działki lub działek ewidencyjnych
+
+W razie uzupełnienia, proszę wypełnić każdą kolumnę tabeli ze szczegółowymi informacjami odnoszącymi się do działek ewidencyjnych oraz niektórych parametrów.
+
+

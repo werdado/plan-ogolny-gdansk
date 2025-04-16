@@ -1,0 +1,54 @@
++++
+title = "Szczegóły wniosku W4790"
+date = "2024-06-14"
+source = "https://bip.brg.gda.pl/images/uploads/wnioski-do-planu-ogolnego/w4790.pdf"
+tags = ["wnioski-ogolne"]
+geolinks = []
+raw = "= - UM w Gdansku i Pismo dotyczące aktli blanowania przestrz    LL MEL < Zak o4ialE RPW/251658/2024 P 1. ORGAN, DO KTÓREGO JEST SKŁADĄNE!PISMO KANCE! AR y Data:2024-06-12 NazwalJT Bruo KOMCIU Udo SKO 2. RODZAJ PISMA” GEY  X 2.1. wniosek do projektu aktu 2 2.2. uwaga do konsultowanego projektu aktu” m 2.3. wniosek o zmianę aktu” m 2.4. wniosek o sporządzenie aktu” 55 of/oć LO ę 0 3. RODZAJ AKTU PLANOWANIA PRZESTRZENNEGO” MA X 3.1. plan ogólny gminy LI 3.2. miejscowy plan zagospodarowania przestrzennego, w tym zintegrowany plan inwestycyjny lub miejscowy plan rewitalizacji 1 3.3. uchwała ustalająca zasady i warunki sytuowania obiektów małej architektury, tablic reklamowych i urządzeń reklamowych oraz ogrodzeń, ich gabaryty, standardy jakościowe oraz rodzaje materiałów budowlanych, z jakich mogą być wykonane 2 3.4. audyt krajobrazowy LI 3.5. plan zagospodarowania przestrzennego województwa 4. DANE SKŁADAJĄCEGO PISMO” 5. ADRES DO KORESPONDENCJI SKŁADAJĄCEGO PISMO* ( Nie 5 ( Nie obowiązkowo) LI pełnomocnik 2 pełnomocnik do doręczeń GT MAŻMIEKÓĆ ooo Z RZ O ACK K O OR OOOO ETER ROA KG: anascozaaacsnzew ca cza oc NIOJÓWAJZIWO: ass ooo oni GOO A POWA aw ozaciwazowacwozawuwanzzi ca was KIMI aoc A A AA AA AAA EKO TOCCATA UG. ooo ae e e w PA w ca ewa wa NF OOÓMUE ...... NF JOKAUĆ a OG GG MIEJSCOWOŚĆ! wawa wa ii yi MO POCZTOWY, aaa A A CANE E-mail (w przypadku gdy pełnomocnik posiada adres e-mail): .............-. eee eee aaa aa aaa anawa ae ane aanaiiscć s NI CJAR (-ej ele)' VJ r4, Co)! //0) OOO i Adres skrytki ePUAP lub adres do doręczeń elektronicznych”: ................-- eee eee see aaa ee aa aae aaa aazaaiaai zak iiiana 7.TREŚĆ PISMA ie EW SNZUE TEKA KZ 7.1. Treść6) Wnosimy o objęcie działki nr „MA.....obręb BE strefą zieleni i rekreacji. Jest to teren części rodzinnego ogrodu działkowego ( ROD) im. W. Reymonta w Gdańsku. Zgodnie z ustawą o ROD jako stały element infrastruktury gmin, ogrody winny być uwzględnione w ich rozwoju, a organy gmin tworzyć do tego warunki. Objęcie w/w strefą umożliwi ujawnienie ROD w mpzp, co przełoży się na prawa KH rodzin /działkowców. Objęcie strefą zakazującą ujawniania ROD w mpzp groziłoby jego likwidacją ( art. 19 ust. 2 ustawy o ROD ). Stabilizacja prawna będzie sprzyjała podnoszeniu standardu ROD - ryzyko likwidacji zniechęci do inwestowania w działki. ROD są obszarem o wysokiej bioróżnorodności, ich ochrona planistyczna realizuje prawo UE oraz krajowe; są ważnym elementem zielonej gminy, służą realizacji planów gminy, pełniąc istotne funkcje społeczne: wsparcia socjalnego, integracji społeczności lokalnej i międzypokoleniowej, aktywizacji seniorów, edukacji ekologicznej dzieci, promocji zdrowego stylu życia. Praca i wypoczynek na ROD poprawia dobrostan działkowców, wspiera zdrowie fizyczne i psychiczne. 7.2. (Nieobowiązkowo) W przypadku wypełnienia, należy uzupełnić każdą z kolumn tabeli. Szczegółowe informacje dotyczące treści pisma w odniesieniu do działek ewidencyjnych: Lp.  7.2.1. Nazwa aktu 1.22: 7.2.3. Czy teren 7.2.4. Treść?) planowania Identyfikator objęty pismem przestrzennego działki lub działek obejmuje całość ewidencyjnych działki lub działek ewidencyjnych” zzsakętw dw radia w ESR A WA RASA DD tak ArYm0Y RNA 0100024000R0014000449000004 000449 00 PG NEWER OPOROROREOŁ EE 7.3. (Nieobowiązkowo) W przypadku wypełnienia, należy uzupełnić każdą z kolumn tabeli. Szczegółowe informacje dotyczące działek ewidencyjnych oraz niektórych parametrów — w przypadku zaznaczenia w pkt 2: wniosku do projektu aktu (pkt 2.1), uwagi do konsultowanego projektu aktu (pkt 2.2) lub wniosku o zmianę aktu (pkt 2.3) oraz w pkt 3: planu ogólnego gminy (pkt 3.1) lub miejscowego planu zagospodarowania przestrzennego, w tym zintegrowanego planu inwestycyjnego lub miejscowego planu rewitalizacji (pkt 3.2): 7.3.1. Nazwa planu 7.3.2. 7.3.3. Czy teren 7.3.4. Nazwa lub 7.3.5. 7.3.6. 74.7. ogólnego gminy lub Identyfikator objęty pismem nazwy klasy Maksymalny Maksymalna Minimalny miejscowego planu działki lub działek  obejmuje całość przeznaczenia udział wysokość udział zagospodarowania ewidencyjnych działki lub terenu (albo powierzchni zabudowy m powierzchni Lp. przestrzennego działek symbal lub zabudowy % biologicznie ewidencyjnych”! symbole klasy czynnej % przeznaczenia terenu)” NSE  RZZSOY OGAE Ulala A j 8. OŚWIADCZENIE W SPRAWIE KORESPONDENCJI ELEKTRONICZNJ  Wyrażam zgodę BT Nie wyrażam zgody na doręczanie korespondencji w niniejszej sprawie za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344). z Pełnomocnictwo do reprezentowania składającego pismo lub pełnomocnictwo do doręczeń (zgodnie z ustawą z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2023 r. poz. 2111)) - jeżeli składający pismo działa przez pełnomocnika. D Potwierdzenie uiszczenia opłaty skarbowej od pełnomocnictwa — jeżeli obowiązek uiszczenia takiej opłaty wynika z ustawy z dnia 16 listopada 2006 r. o opłacie skarbowej.   (Nieobowiązkowo). Określenie granic terenu w formie graficznej w przypadku wskazania terenu objętego pismem jako części działki ewidencyjnej lub działek ewidencyjnych. 2 (Nieobowiązkowo). Inne załączniki — w przypadku zaznaczenia pola należy podać nazwy załączników. i ini * rew i ieszcza się w przypadku składania pisma w postaci papierowej. A Data? 1 CE 7 ramach jednego pisma można wybrać tylko te akty, w przypadku których pismo będzie wysyłane do tego samego organu wskazanego w pkt 1. W przypadku gdy treść wniosku lub uwagi związana jest z dokumentem powiązanym z aktem planowania przestrzennego (np. sporządzanej w toku procedowania aktu, w ramach strategicznej oceny oddziaływania na środowisko, prognozy oddziaływania na środowisko), należy w pkt 3 wybrać rodzaj aktu planowania przestrzennego, którego ten dokument dotyczy, po czym wprowadzić treść wniosku lub uwagi w pkt 7.1 lub 7.2. * Nie dotyczy planu zagospodarowania przestrzennego województwa. * Nie dotyczy planu zagospodarowania przestrzennego województwa i audytu krajobrazowego. * W pkt 4 należy podać adres zamieszkania albo siedziby składającego pismo. W przypadku wypełnienia pkt 5 podaje się adres do korespondencji składającego pismo, jeżeli jest inny niż adres podany w pkt 4. W przypadku wypełnienia pkt 6 podaje się adres zamieszkania albo siedziby pełnomocnika. W przypadku większej liczby składających pismo lub pełnomocników dane kolejnych składających pismo lub pełnomocników dodaje się w formularzu albo zamieszcza na osobnych stronach i dołącza do formularza. - Adres skrytki ePUAP lub adres do doręczeń elektronicznych wskazuje się w przypadku wyrażenia zgody na doręczanie korespondencji za pomocą środków komunikacji elektronicznej, z zastrzeżeniem przypadków, w których organ, zgodnie z przepisami ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2023 r. poz. 285, z późn. zm.), ma obowiązek doręczenia korespondencji na adres do doręczeń elektronicznych. - Maksymalna liczba znaków w pkt 7.1. wynosi 1000, natomiast w przypadku pkt 7.2.4. wartość ta odnogi się do pojedynczego wiersza. W przypadku potrzeby dodatkowego uzasadnienia, które wykracza poza wskazany limit znaków, uzasadnienie zamieszcza się na osobnych stronach i dołącza do formularza. - W przypadku większej liczby wierszy w pkt 7.2.4. kolejne wiersze dodaje się w formularzu albo zamieszcza na osobnych stronach i dołącza do formularza. * W przypadku zaznaczenia pola „nie” (wskazania terenu objętego pismem jako części działki ewidencyjnej lub działek ewidencyjnych) można dodać załącznik z określeniem granic terenu w formie graficznej. 'Podaje się nazwę lub symbol klasy przeznaczenia terenu zgodnie ze standardami określonymi w przepisach wykonawczych wydanych na podstawie art. 16 ust. 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2023 r. poz. 977, z późn. zm.). 'W przypadku dołączenia do pisma załączników zawierających dane osobowe, inne niż wymienione w pkt 4, 5 i 6, załączniki te należy zanonimizować, tj. ukryć dane osobowe. "
++++
+
+Urząd Miejski w Gdańsku
+Dział Planowania Przestrzennego
+Nr ref. RPW/251658/2024
+
+ORGAN, DO KTÓREGO JEST SKŁADANE PISMO
+Kancelaria
+Data: 2024-06-12
+Nazwa: Bruo KOMCIU Udo SKO
+
+RODZAJ PISMA:
+2.1. Wniosek do projektu aktu
+2.2. Uwaga do konsultowanego projektu aktu
+2.3. Wniosek o zmianę aktu
+2.4. Wniosek o sporządzenie aktu
+
+RODZAJ AKTU PLANOWANIA PRZESTRZENNEGO:
+3.1. Plan ogólny gminy
+3.2. Miejscowy plan zagospodarowania przestrzennego, w tym zintegrowany plan inwestycyjny lub miejscowy plan rewitalizacji
+3.3. Uchwała ustalająca zasady i warunki sytuowania obiektów małej architektury, tablic reklamowych i urządzeń reklamowych oraz ogrodzeń, ich gabaryty, standardy jakościowe oraz rodzaje materiałów budowlanych, z jakich mogą być wykonane
+3.4. Audyt krajobrazowy
+3.5. Plan zagospodarowania przestrzennego województwa
+
+DANE SKŁADAJĄCEGO PISMO
+
+ADRES DO KORESPONDENCJI SKŁADAJĄCEGO PISMO
+
+Pełnomocnik
+Z RZ O ACK K O OR OOOO ETER ROA
+
+MIEJSCOWOŚĆ
+Adres pocztowy
+
+E-mail: 
+
+TREŚĆ PISMA
+
+Wnosimy o objęcie działki nr ... obręb ... strefą zieleni i rekreacji. Jest to teren części rodzinnego ogrodu działkowego (ROD) im. W. Reymonta w Gdańsku. Zgodnie z ustawą o ROD jako stały element infrastruktury gmin, ogrody winny być uwzględnione w ich rozwoju, a organy gmin tworzyć do tego warunki. Objęcie w/w strefą umożliwi ujawnienie ROD w mpzp, co przełoży się na prawa rodzin/działkowców. Objęcie strefą zakazującą ujawniania ROD w mpzp groziłoby jego likwidacją (art. 19 ust. 2 ustawy o ROD). Stabilizacja prawna będzie sprzyjała podnoszeniu standardu ROD - ryzyko likwidacji zniechęci do inwestowania w działki. ROD są obszarem o wysokiej bioróżnorodności, ich ochrona planistyczna realizuje prawo UE oraz krajowe; są ważnym elementem zielonej gminy, służą realizacji planów gminy, pełniąc istotne funkcje społeczne: wsparcia socjalnego, integracji społeczności lokalnej i międzypokoleniowej, aktywizacji seniorów, edukacji ekologicznej dzieci, promocji zdrowego stylu życia. Praca i wypoczynek na ROD poprawia dobrostan działkowców, wspiera zdrowie fizyczne i psychiczne.
+(Nieobowiązkowo) W przypadku wypełnienia, należy uzupełnić każdą z kolumn tabeli. Szczegółowe informacje dotyczące treści pisma w odniesieniu do działek ewidencyjnych: Nazwa aktu: 1.22: Czy teren: Treść?
+
+OŚWIADCZENIE W SPRAWIE KORESPONDENCJI ELEKTRONICZNEJ
+Wyrażam zgodę/Nie wyrażam zgody na doręczanie korespondencji w niniejszej sprawie za pomocą środków komunikacji elektronicznej w rozumieniu odpowiednich przepisów.
+
+(Wszelkie pozostałe informacje oraz wskazówki zostały przekształcone zgodnie z oryginałem).
+
+

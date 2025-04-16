@@ -1,0 +1,15 @@
++++
+title = "Szczegóły wniosku W4220"
+date = "2024-06-14"
+source = "https://bip.brg.gda.pl/images/uploads/wnioski-do-planu-ogolnego/w4220.pdf"
+tags = ["wnioski-ogolne"]
+geolinks = []
+raw = "WNIOSKUJĘ O USTALENIE STREFY SW — STREFA WIELOFUNKCYJNA Z ZABUDOWĄ MIESZKANIOWĄ WIELORODZINNĄ DLA DZIAŁEK NR 112/89, 112/90, 112/91, 174, 175, 157 OBR. 68 MIASTO GDANSK "
++++
+
+WNIOSKUJĘ O USTALENIE STREFY SW — STREFA WIELOFUNKCYJNA Z ZABUDOWĄ
+MIESZKANIOWĄ WIELORODZINNĄ DLA DZIAŁEK NR 112/89, 112/90, 112/91, 174, 175, 157 OBR. 68
+MIASTO GDANSK
+
+
+

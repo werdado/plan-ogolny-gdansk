@@ -1,0 +1,22 @@
++++
+title = "Szczegóły wniosku W1121"
+date = "2024-06-11"
+source = "https://bip.brg.gda.pl/images/uploads/wnioski-do-planu-ogolnego/w1121.pdf"
+tags = ["obręb: 0033", "wnioski-ogolne"]
+geolinks = []
+raw = "Wnoszę o objęcie działek nr 91/4, 92/3, 82/26 obręb 033 strefą zieleni I rekreacji. Jest to teren ROD Przytorze, który z racji swojej funkcji przynależy do w/w strefy. Zgodnie z Ustawą o ROD, jako stały element infrastruktury gmin, ogrody winny być uwzględniane w ich rozwoju a organy gmin tworzyć do tego warunki. Objęcie w/w strefą umożliwi ujawnienie ROD w MPZP co przełoży się na prawa co najmniej 57 rodzin (kilkuset osób). Objęcie strefą zakazującą ujawnienia ROD w MPZP groziłoby jego likwidacją (art. 19 ust. 2 Ustawy o ROD). Sta bilizacja prawna będzie sprzyjała podnoszeniu standardu ROD. Ryzyko likwidacji zniechęci do inwestowania w działki. ROD są obszarem o wysokiej bioróżnorodności, ich ochrona pianistyczna realizuje prawo UE oraz krajowe; są ważnym element Infrastruktury zielonej gminy; służą realizacji jej zadań. Pełnią istotne międzypokoieniowe funkcje społeczne. Promują ekologię i zdrowy trybu życia. "
++++
+
+Wnoszę o objęcie działek nr 91/4, 92/3, 82/26 obręb 033 strefą zieleni I rekreacji.
+Jest to teren ROD Przytorze, który z racji swojej funkcji przynależy do w/w strefy. Zgodnie z Ustawą o
+ROD, jako stały element infrastruktury gmin, ogrody winny być uwzględniane w ich rozwoju a organy
+gmin tworzyć do tego warunki. Objęcie w/w strefą umożliwi ujawnienie ROD w MPZP co przełoży się na
+prawa co najmniej 57 rodzin (kilkuset osób). Objęcie strefą zakazującą ujawnienia ROD w MPZP
+groziłoby jego likwidacją (art. 19 ust. 2 Ustawy o ROD). Sta bilizacja prawna będzie sprzyjała podnoszeniu
+standardu ROD. Ryzyko likwidacji zniechęci do inwestowania w działki.
+ROD są obszarem o wysokiej bioróżnorodności, ich ochrona pianistyczna realizuje prawo UE oraz
+krajowe; są ważnym element Infrastruktury zielonej gminy; służą realizacji jej zadań. Pełnią istotne
+międzypokoieniowe funkcje społeczne. Promują ekologię i zdrowy trybu życia.
+
+
+

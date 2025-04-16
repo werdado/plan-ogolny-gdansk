@@ -1,0 +1,33 @@
++++
+title = "Szczegóły wniosku W5010"
+date = "2024-06-14"
+source = "https://bip.brg.gda.pl/images/uploads/wnioski-do-planu-ogolnego/w5010.pdf"
+tags = ["wnioski-ogolne"]
+geolinks = []
+raw = "1. ORGAN, DO KTOREGO JES! SKŁADANE FISMO -R  4 i Wu.ość L FEC tk p 44 U 2.2. Uwaga do konsuliowanege PrOJEKLU ) ( 2.3, wniosek o zmianę aktu 2.4. wniosek o sporządzenie aktu” 3 ł lau A a zad i © 7. 4 2 4 8 Ma ZA LJ 1, J 1 w ! = Re uj = L e UI i iK=1 vi jzwk LU2Ż LW U Ulica Nr domu Nr lokalu —_ .,2_2QDQ . ., , „_„_Ź—Ź—„>„Ź„Ź>„__/__ yyy yy Aż 4% . 2 = : mor w 7. TRESC PISMA 7.1. Treść” Wnoszę o objęcie działek nr 42, 80, 104,710.138, 139,188, 203, 148 obręb 0024 strefą zieleni i rekreacji. Jest to teren rodzinnego ogrodu działkowego (ROD), który przynależy do w/w strefy. Zgodnie z ustawą o ROD jako staty element infrastruktury gmin, ogrody winny być uwzględniane w ich rozwoju, * a organy gmin tworzyć do tego warunki. Objęcie włw streią umożliwi ujawnienie ROD w mpzp, co przełoży się na prawa 1115 rodzin - działkowców. Objęcie strefą zakazującą ujawnienia RÓD w mpzp groziłaky jego jikwidacią (art. 19 ust. 2 ustawy © ROD). Stabilizacja prawna będzie sprzyjała podnoszeniu standardu ROD - ryzyko likwicacii zniechęci do inwestowania w działki. ROD są obszarem o wysokiej bioróżnorodności. ich ochrona planistyczna realizuje prawo UE oraz krajowe; są ważnym element infrastruktury zielonej gminy; służą realizacji zadań gminy, pełniąc istotne funkcje społeczne: wsparcia socjalnego, integracji społeczności lokalnej i międzypokoleniowej, aktywizacji seniorów, edukacji ekologicznej dzieci, promocji zdrowego trybu życia.  7.2. (Nieobowiązkowo) W przypadku wypełnienia, należy uzupełnić każdą z kolumn tabeli. Szczegółowe informacje dotyczące treści pisma w odniesieniu do działek ewidencyjnych: 7.2.1 Nazwa T.2.2. 7.2.3. Gzy teren  7.2.4, Treść5) aktu planowania Identyfikator objęty pismem *  Lp.  przestrzennego działki lub obejmuje całość  dziaiek działki lub działek  I '= ewidencyjnych ewidencyjnych”) _ n_  1  7.3. (Nieobowiązkowo) W przypadku wypełnienia, należy uzupełnić każdą z kolumn tabeli. Szczegółowe informacje dotyczące działek ewidencyjnych oraz niektórych parametrów — w przypadku zaznaczenia w pkt 2: wniosku do projektu aktu (pkt 2.1), uwagi do konsuliowanego projektu aktu (pkt 2.2) lub wniosku o zmianę ! aktu (pkt 2.3) oraz w pkt 3: planu ogólnego gminy (skt 3.1) łub miejscowego planu zagospodarowania przestrzennego, w tym zintegrowanego planu inwestycyjnego iuo miejscowego planu rewitalizacji (pkt 3.2): Widzowie bei dak siówejań dod 7.3.1. Nazwa planu 7.3.2. 7.3.3. Czy 7.3.4. Nazwa lub 3.5. 73.6. 7.3.7. ogólnego gminy Identyfikator teren objęty nazwy klasy Maksymalny Maksymalna Minimalny  lub działki lub „. pismem przeznaczenia udział wysokość udział i miejscowego planu działek obejmuje terenu (albo powierzchni zabudowy m powierzchni ZELK Ra zagospodarowania ewidencyjnych całość działki symbol lub zabudowy % biologicznie cĘ' Piześlizeniego = waEtdzieGk  GziWiE Aiasy p — — -- — peazyuiej jl  —— ewidencyjnych przeznaczenia U terenu)Ś) 1 8. OŚWIADCZENIE W SPRAWIE KORESPONDENCJI ELEKTRONICZNEJ D) Wyrażam zgodę Z Nie wyrażam zgody na doręczanie korespondencji w niniejszej sprawie za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344). 9. ZAŁĄCZNIKI r - Pełnomocnictwo do reprezentowania składającego pismo łuk pelnomacnictwo do doręczeń (zgodnie z ustawą z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2023 r. poz. 2111)) — jeżeli składający pismo działa przez pełnomocnika. L Potwierdzenie uiszczenia opłaty skarbowej od pełnomocnictwa — jeżeli obowiązek uiszczenia takiej opłaty wynika z ustawy z dnia 16 listopada 2006 r. o opłacie skarbowej. «i  (Nieobowiązkowo). Określenie granic terenu w formie graficznej w przypadku wskazania terenu objętego pismem jako części działki ewidencyjnej lub działek ewidencyjnych. D  (Nieobowiązkowo). Inne załączniki — w przypadku zaznaczenia pola należy podać nazwy załączników.” 10. PODPIS SKŁADAJĄCEGO PISMO (PEŁNOMOCNIKA) I DATA PODPISU Podpis powinien być czytelny. Podpis i datę podpisu umieszcza się w przypadku składania pisma w postaci papierowej. Podpis:  m m © Data: (3.06.2024... A A JÓOĄAąao w zę, wy = >. "
++++
+
+Organ, do którego jest składane pismo: 4
+
+Wu.ość L FEC tk p 44 U 2.2.
+Uwaga do konsultowanego projektu (projektu)
+Wniosek o zmianę aktu
+Wniosek o sporządzenie aktu
+Ulica, Nr domu, Nr lokalu
+
+Treść pisma
+Wnoszę o objęcie działek nr 42, 80, 104, 710, 138, 139, 188, 203, 148 w obrębie 0024 strefą zieleni i rekreacji. Jest to teren rodzinnego ogrodu działkowego (ROD), który przynależy do powyższej strefy. Zgodnie z ustawą o ROD jako istotny element infrastruktury gminnej, ogrody powinny być uwzględniane w ich rozwoju, a organy gminy tworzyć do tego warunki. Objęcie ww. strefy umożliwi ujawnienie ROD w mpzp, co przełoży się na prawa rodzin - działkowców. Objęcie strefą zakazującą ujawnienia ROD w mpzp grozi likwidacją (art. 19 ust. 2 ustawy o ROD). Stabilizacja prawna przyczyni się do podniesienia standardu ROD - ryzyko likwidacji zniechęci do inwestowania w działki. ROD to obszar o wysokiej bioróżnorodności. Ich ochrona planistyczna realizuje prawo UE oraz krajowe; są ważnym elementem infrastruktury zielonej gminy; służą realizacji zadań gminy, pełniąc istotne funkcje społeczne: wsparcia socjalnego, integracji społeczności lokalnej i międzypokoleniowej, aktywizacji seniorów, edukacji ekologicznej dzieci, promocji zdrowego trybu życia.
+
+Oświadczenie w sprawie korespondencji elektronicznej
+Wyrażam zgodę / Nie wyrażam zgody na doręczanie korespondencji w niniejszej sprawie za pomocą środków komunikacji elektronicznej w rozumieniu art. 2 pkt 5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344).
+
+Załączniki
+- Pełnomocnictwo do reprezentowania składającego pismo lub pełnomocnictwo do doręczeń (zgodnie z ustawą z dnia 16 listopada 2006 r. o opłacie skarbowej (Dz. U. z 2023 r. poz. 2111)) — jeśli składający pismo działa przez pełnomocnika.
+- Potwierdzenie uiszczenia opłaty skarbowej od pełnomocnictwa — jeśli obowiązek uiszczenia takiej opłaty wynika z ustawy z dnia 16 listopada 2006 r. o opłacie skarbowej.
+- (Nieobowiązkowo) Określenie granic terenu w formie graficznej w przypadku wskazania terenu objętego pismem jako części działki ewidencyjnej lub działek ewidencyjnych.
+- (Nieobowiązkowo) Inne załączniki — w przypadku zaznaczenia pola należy podać nazwy załączników.
+
+Podpis składającego pismo (pełnomocnika) i data podpisu
+Podpis:             Data: 03.06.2024.
+
+

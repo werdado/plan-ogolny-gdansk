@@ -1,0 +1,69 @@
++++
+title = "Szczegóły wniosku W5190"
+date = "2024-06-14"
+source = "https://bip.brg.gda.pl/images/uploads/wnioski-do-planu-ogolnego/w5190.pdf"
+tags = ["wnioski-ogolne"]
+geolinks = []
+raw = " (2)  Wnioskodawca Em  ŚLE 2 (06 20 dańsk, 07, „06.2024 r. Ę Biuro Rozwoju + Gdańska Biuro Rozwoju Gdańska ul. Wały Piastowskie 24 80-855 Gdańsk www.brg.gda.pl WNIOSEK Dotyczy: UCHWAŁA NR LXXV/1912/24 RADY MIASTA GDAŃSKA z dnia 21 marca 2024 r. w sprawie przystąpienia do sporządzenia planu ogólnego miasta Gdańska Wnioskuje o wykreślenie z planu ogólnego możliwości przebiegi linii tramwajowej ul. Klonową do Dworca Wrzeszcz PKP. Rozwiązanie to jest funkcjonalnie i komunikacyjnie niekorzystne dla całego obszaru i wygeneruje paraliż komunikacyjny . W zamian wnioskuję o wpisanie do planu możliwości przebiegi linii tramwajowej, wzdłuż wiaduktu drogowego nad ul. Grunwaldzką i dalej kolejowego w kierunku ul. Kościuszki, dwoma estakadami tramwajowymi pomiędzy Galerią Bałtycką a Lidlem. Takie rozwiązanie daje możliwość ukierunkowania kolejnej przyszłościowej linii tramwajowej dalej w górę ul. Słowackiego i zamknięcia pętli z Moreną. zzz , irig i nazwisko pismo należy składać papierowo pocztą na adres BRG lub przez e-puap jako Pismo ogólne do podmiotu publicznego wpisując nazwę: BIURO ROZWOJU GDAŃSKA 80-855 GDAŃSK, WOJ. POMORSKIE UL.WAŁY PIASTOWSKIE 24 Sprzeciw wobec budowy tramwaju przez ul. Kionową w Gdańsku ; Wrzeszczu. Wnosimy o utrzymanie dotychczasowego sposobu wykorzystania placu „Czerwonych Gitar” wraz z ul. Klonową (obszar na który składają się działki nr 240/4, 241/4, 261/2, 266/5, 250/32, 261/2 i sąsiednie, obręb 0032) oraz porzucenie planów w zakresie poprowadzenia linii tramwajowej przez ul. Klonową, do Dworca PKP we Wrzeszczu i następnie za „Galerią Bałtycką” przez ul. Alfreda Lendziona. Wskazujemy w tym zakresie, iż według dotychczasowej dokumentacji projektowej, w tym: 1) Kierunków rozwoju układu linii tramwajowych i pasów autobusowych w perspektywie unijnej na lata 2021 — 2027; 2) Studium uwarunkowań i kierunków zagospodarowania przestrzennego miasta Gdańska, przez środek ulicy Klonowej w Gdańsku Wrzeszczu planowana jest realizacja inwestycji polegającej na budowie kolejnej nitki linii tramwajowej. Fakt ten został też ogłoszony przez Dyrekcje Rozbudowy Miasta Gdańska, a obecnie według dostępnych informacji prowadzone są prace projektowe w tym zakresie. Pragnę jednak zaznaczyć, że inicjatywie tej zdecydowanie oponujemy. W praktyce bowiem, realizacja takiej inwestycji doprowadzi do całkowitej zmiany charakteru tego obszaru, naruszając wspólne interesy nie tylko właścicieli lokali usługowych znajdujących się w okolicy, ale również mieszkańców budynków wielorodzinnych położonych po obu stronach dzisiejszej ul. Klonowej oraz wokół Placu „Czerwonych Gitar”. Na brak opłacalności tejże inwestycji (tj. znacznych kosztów finansowych i społecznych, przy braku realnej poprawy w zakresie komunikacyjnym dla danego obszaru), wskazywali już ekonomiści, których opinie były publikowane przez lokalne media (np.: https://www.trojmiasto.pl/wiadomosci/Tramwaj-do-dworca-we- Wrzeszczu-Krotka-trasa-duze-emocje-n176756.html). Mimo takich głosów i zastrzeżeń mieszkańców (a obecnie otwartego sprzeciwu), miasto podejmuje działania zmierzające do przeprowadzenia tej zmiany. W tym zakresie należy w szczególności wskazać, że wykonanie tychże planów doprowadzi do znacznego ograniczenia obszaru pieszego Placu „Czerwonych Gitar” . Trasa tramwajowa będzie przecinać chodniki, główną Ścieżkę rowerową i znajdować się w bezpośrednim sąsiedztwie budynków mieszkalnych wielorodzinnych. Ryzyko wypadku w takich okolicznościach znacznie wzrasta. Faktycznie Plac nie będzie już obszarem wyłącznie pieszym, a współdzielonym z tramwajami, tworzącymi dodatkowe ryzyko potrącenia. Nie można również pomijać, iż poprowadzenia trasy bliżej budynków mieszkalnych będzie prowadziło do zwiększenia dyskomfortu ! mieszkańców tego obszaru, którzy dotychczas w ogóle nie byli konsultowani w tym zakresie (w szczególności mieszkańcu ul. Klonowej, Dmowskiego, Lendziona, Brzozowej i Grunwaldzkiej 115). Jest nam narzucany sposób zagospodarowania naszego bezpośredniego sąsiedztwa, bez jakichkolwiek wcześniejszych rozmów czy uzgodnień, czemu się z całą siłą sprzeciwiamy. Nie można również pomijać, że wykonanie przedstawionej koncepcji w istotnym stopniu ograniczy (o ile całkowicie nie usunie) miejsc parkingowych na ul. Klonowej. Doprowadzi to do znacznego utrudnienia możliwości prowadzenia lokali usługowych i handlowych w pasażach położonych po obu stronach ulicy. Co więcej, zmniejszy to i tak już niewielką ilość miejsc postojowych w pobliżu dworca PKP Wrzeszcz. Należy pamiętać, że obecny układ komunikacyjny zapewnia skumułowanie ciągów pieszych właśnie wzdłuż ul. Klonowej (z przystanku tramwajowego na dworzec PKP), co w sposób naturalny stanowi dodatkowy impuls dla przedsiębiorców prowadzących działalność w pasażach na ul. Klonowej- i jest bezpieczne dla coraz popularniejszej komunikacji rowerowej. Zaplanowana trasa tramwajowa wykluczy tę możliwość, gdyż potencjalni konsumenci będą omijali rzeczone lokale podróżując tramwajem. Co więcej, likwidacja wspomnianych miejsc parkingowych dodatkowo zmniejszy atrakcyjność prowadzenia lokali usługowych i handlowych w rejonie. Możliwość zaparkowania pojazdu i wejścia do sklepu by zrobić drobne zakupy w centrum Wrzeszcza, jest istotną zaletą dla przedsiębiorców i części klientów. Podobnie sytuacja będzie się miała w przypadku potrzeby zrealizowania dostawy do sklepu. Zwłaszcza, że rejon ten został w dotychczasowych pracach planistycznych przeznaczony jako obszar Usługowy, centralny dla dzielnicy Wrzeszcza. Poprowadzenie trasy przez ul. Klonową bezsprzecznie ograniczy swobodny dostęp do części lokali posadowionych w pasażach handlowych. Wobec powyższego należy wskazać, że realizacja jedynie 250-metrowego odcinka linii tramwajowej, zmieniająca całkowicie dotychczasowy sposób wykorzystania obszaru (pożądany przez mieszkańców i lokalnych przedsiębiorców), jest nieopłacalna z gospodarczego i społecznego punktu widzenia. Przy pełnym sprzeciwie środowisk lokalnych, będzie należało wydać znaczne środki z budżetu miasta, by w praktyce dowieść ludzi z przystanku tramwajowego na dworzec PKP, znajdujących się od siebie około 200 m w linii prostej. Taka inwestycja jest przejawem skrajnej niegospodarności i ignorowania głosu mieszkańców. Jeżeli chodzi o kwestie szerszego projektu dotyczącego łączników Tramwajowych, to w ocenie mieszkańców i najemców lokali usługowych, lepiej takiemu celowi będzie służyło zaplanowanie trasy tramwajowej wzdłuż już gotowych ciągów komunikacyjnych- np.: Alei Żołnierzy Wyklętych. Zakręt linii tramwajowej, który według obecnie dostępnych projektów i wizualizacji planowany jest na wysokości ulicy Klonowej i Placu „Czerwonych Gitar, winien zostać zrealizowany na wysokości  . THIENU  zmme—-C4 8 „Galerii Bałtyckiej” i w tym kierunku należałoby prowadzić prace projektowe. Takie - rozwiązanie pozwoli na utrzymanie linii tramwajowych wzdłuż głównych ciągów komunikacyjnych, bez potrzeby ingerowania w dotychczasowy sposób przeznaczenia obszaru, a w szczególności- bez tworzenia nowej linii w bezpośrednim sąsiedztwie wielorodzinnych budynków mieszkaniowych, czemu oponują mieszkańcy. Podsumowując, sprzeciwiamy się budowie trasy tramwajowej ulicą Klonową we Wrzeszczu. Znaczne koszty tej inwestycji prowadzą do wytworzenia niecałych 250 m linii tteamwajowej, zmieniając całkowicie charakter okolicy, jako obszaru opartego na pieszej komunikacji w ciągu między przystankami tramwajowymi na ul. Grunwaldzkiej a dworcem PKP Wrzeszcz. Znaczne koszty finansowe, przy sprzeciwie mieszkańców i lokalnych przedsiębiorców oraz jednoczesnym braku korzyści związanych z rzekomą poprawą efektywności komunikacyjnej, powodują, że przedmiotowa inwestycja nie powinna być realizowana. Nie dla zniszczenia ulicy Klonowej i placu „Czerwonych Gitar”. Gdańsk, dnia ..06..06.a60 4. s 4 % ej N 4 i % 3 E j - xf LN , s = „e „A i d9 4 ANA s, = © 4 a 'e p A NPR 3 11 -567_ a „ Ua, 'SP a 4 r R R” 3I'F E ST  t, Z 3  —YTZ z 27 :  a SKR NIDA SY OWY p '2 aKBzEi  w - ae JBE "
++++
+
+Wnioskodawca Em  ŚLE 2 (06 20 dańsk, 07, „06.2024 r.
+Biuro Rozwoju
+Gdańska
+Biuro Rozwoju Gdańska
+ul. Wały Piastowskie 24
+80-855 Gdańsk
+www.brg.gda.pl
+WNIOSEK
+Dotyczy: UCHWAŁA NR LXXV/1912/24 RADY MIASTA GDAŃSKA z dnia 21 marca 2024 r.
+w sprawie przystąpienia do sporządzenia planu ogólnego miasta Gdańska
+Wnioskuje o wykreślenie z planu ogólnego możliwości przebiegi linii tramwajowej ul.
+Klonową do Dworca Wrzeszcz PKP. Rozwiązanie to jest funkcjonalnie i komunikacyjnie
+niekorzystne dla całego obszaru i wygeneruje paraliż komunikacyjny.
+W zamian wnioskuję o wpisanie do planu możliwości przebiegi linii tramwajowej,
+wzdłuż wiaduktu drogowego nad ul. Grunwaldzką i dalej kolejowego w kierunku ul.
+Kościuszki, dwoma estakadami tramwajowymi pomiędzy Galerią Bałtycką a Lidlem. Takie
+rozwiązanie daje możliwość ukierunkowania kolejnej przyszłościowej linii tramwajowej dalej
+w górę ul. Słowackiego i zamknięcia pętli z Moreną.
+...
+Sprzeciw wobec budowy tramwaju przez ul. Kionową w Gdańsku
+Wrzeszczu.
+Wnosimy o utrzymanie dotychczasowego sposobu wykorzystania placu „Czerwonych
+Gitar” wraz z ul. Klonową (obszar na który składają się działki nr 240/4, 241/4,
+261/2, 266/5, 250/32, 261/2 i sąsiednie, obręb 0032) oraz porzucenie planów w
+zakresie poprowadzenia linii tramwajowej przez ul. Klonową, do Dworca PKP we
+Wrzeszczu i następnie za „Galerią Bałtycką” przez ul. Alfreda Lendziona.
+...
+Poprowadzenie trasy przez ul. Klonową bezsprzecznie ograniczy swobodny dostęp do
+części lokali posadowionych w pasażach handlowych.
+Wobec powyższego należy wskazać, że realizacja jedynie 250-metrowego odcinka
+linii tramwajowej, zmieniająca całkowicie dotychczasowy sposób wykorzystania
+obszaru (pożądany przez mieszkańców i lokalnych przedsiębiorców), jest
+nieopłacalna z gospodarczego i społecznego punktu widzenia. Przy pełnym sprzeciwie
+środowisk lokalnych, będzie należało wydać znaczne środki z budżetu miasta, by w
+praktyce dowieść ludzi z przystanku tramwajowego na dworzec PKP, znajdujących się
+od siebie około 200 m w linii prostej. Taka inwestycja jest przejawem skrajnej
+niegospodarności i ignorowania głosu mieszkańców.
+Jeżeli chodzi o kwestie szerszego projektu dotyczącego łączników tramwajowych, to
+w ocenie mieszkańców i najemców lokali usługowych, lepiej takiemu celowi będzie
+służyło zaplanowanie trasy tramwajowej wzdłuż już gotowych ciągów
+komunikacyjnych - np.: Alei Żołnierzy Wyklętych. Zakręt linii tramwajowej, który
+według obecnie dostępnych projektów i wizualizacji planowany jest na wysokości
+ulicy Klonowej i Placu „Czerwonych Gitar, winien zostać zrealizowany na wysokości
+Galerii Bałtyckiej” i w tym kierunku należałoby prowadzić prace projektowe. Takie
+rozwiązanie pozwoli na utrzymanie linii tramwajowych wzdłuż głównych ciągów
+komunikacyjnych, bez potrzeby ingerowania w dotychczasowy sposób przeznaczenia
+obszaru, a w szczególności - bez tworzenia nowej linii w bezpośrednim sąsiedztwie
+wielorodzinnych budynków mieszkaniowych, czemu oponują mieszkańcy.
+Podsumowując, sprzeciwiamy się budowie trasy tramwajowej ulicą Klonową we
+Wrzeszczu. Znaczne koszty tej inwestycji prowadzą do wytworzenia niecałych 250 m
+linii tramwajowej, zmieniając całkowicie charakter okolicy, jako obszaru opartego na
+pieszej komunikacji w ciągu między przystankami tramwajowymi na ul. Grunwaldzkiej
+a dworcem PKP Wrzeszcz. Znaczne koszty finansowe, przy sprzeciwie mieszkańców i
+lokalnych przedsiębiorców oraz jednoczesnym braku korzyści związanych z rzekomą
+poprawą efektywności komunikacyjnej, powodują, że przedmiotowa inwestycja nie
+powinna być realizowana. Nie dla zniszczenia ulicy Klonowej i placu
+„Czerwonych Gitar”.
+Gdańsk, dnia 06.06.2024 r.
+
+

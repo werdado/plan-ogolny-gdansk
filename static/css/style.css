@@ -303,7 +303,7 @@ nav.navigation a.button {
 
 /* index post list */
 #list-page {
-    max-width: 580px;
+    max-width: 780px;
     margin: 0 auto;
     padding: 0 24px;
 }
@@ -418,10 +418,12 @@ nav.navigation a.button {
     display: none;
 }
 
+#list-page .tags,
 #single .tags {
     margin-top: 24px;
 }
 
+#list-page .tags a,
 #single .tags a {
     background: #f2f2f2;
     padding: 4px 7px;
@@ -430,6 +432,7 @@ nav.navigation a.button {
     margin-right: 3px;
 }
 
+#list-page .tags a:hover,
 #single .tags a:hover {
     color: #0366d6;
 }
