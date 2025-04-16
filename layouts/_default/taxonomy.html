@@ -2,34 +2,46 @@
 {{ partial "profile.html" . }}
 
 <section id="archive">
-   
+
     {{ range .Data.Pages.GroupByDate "2006" }}
-        <div class="group">
-            <h3 class="key">
-                {{ .Key }}
-            </h3>
+    <div class="group">
+        <h3 class="key">
+            {{ .Key }}
+        </h3>
 
-            {{ range .Pages }}
-                <div class="value">
-                  <div class="date">
-                      <time datetime="{{ .PublishDate }}">{{ i18n "publishDateShort" . }}</time>
-                  </div>
-                  <div class="title">
-                      <a href="{{ .Permalink }}">
-                          {{ .Title }}
-                      </a>
+        {{ range .Pages }}
+        {{ $title := .Title }}
+        {{ $summary := .Summary }}
+        <div class="value">
 
-                      {{ with .Params.tags }}
-                          <div class="tags">
-                              {{ range . }}
-                                  <a href="{{ "tags/" | absURL }}{{ . | urlize }}">{{ . }}</a>
-                              {{ end }}
-                          </div>
-                      {{ end}}
-                  </div>
+            <div>
+                <h1 class="title"><a href='{{ .RelPermalink }}'>{{ $title }}</a></h1>
+                <div class="date">
+                    <time datetime="{{ .PublishDate }}">{{ i18n "publishDate" . }}</time>
                 </div>
-            {{ end }}          
+            </div>
+
+            {{ if ne .Site.Params.hiddenPostSummaryInHomePage true }}
+            <div class="summary">
+                {{ $summary | safeHTML | truncate 300 | plainify | htmlUnescape }}
+                <ul>
+                    <li><a href="{{ .Params.source }}" target="_blank">PDF wniosku (w nowym oknie)</a>
+                </ul>
+            </div>
+            {{ end }}
+
+            {{/* todo: termin odpowiedzi + jednozdaniowy opis zapytania */}}
+            {{ with .Params.tags }}
+            <div class="tags">
+                {{ range . }}
+                <a href="{{ " tags/" | absURL }}{{ . | urlize }}">{{ . }}</a>
+                {{ end }}
+            </div>
+            {{ end }}
+
         </div>
+        {{ end }}
+    </div>
 
     {{ end }}
 
