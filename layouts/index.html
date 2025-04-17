@@ -2,10 +2,14 @@
 {{ partial "profile.html" . }}
 
 <div id="list-page">
-    <form action="{{ absURL "search" }}" method="GET">
-        <input type="search" name="q" id="search-query" placeholder="Search....">
-        <button type="submit">Search</button>
-    </form>
+    <div id="search-box">
+        <form action="{{ absURL "search" }}" method="GET" role="search">
+            <label for="search">Wyszukaj</label>
+            <input id="search-query" type="search" name="q" placeholder="Wyszukaj..." autofocus required />
+            <button type="submit">Szukaj</button>
+        </form>
+    </div>
+
 
     {{/* tutaj niech będa tylko wnioski przeterminowane */}}
     {{/* oraz odnosnik pokaż wszystkie */}}
