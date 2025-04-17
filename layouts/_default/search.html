@@ -29,15 +29,23 @@
     </div>
     </script>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.6.2/fuse.min.js"
-        integrity="sha512-Nqw1tH3mpavka9cQCc5zWWEZNfIPdOYyQFjlV1NvflEtQ0/XI6ZQ+H/D3YgJdqSUJlMLAPRj/oXlaHCFbFCjoQ=="
+    {{ with .Site.Params.libs.fusejs }}
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/{{ .version }}/fuse.min.js"
+        integrity="{{ .integrity }}"
         crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    {{ end }}
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js"
-        integrity="sha512-5CYOlHXGh6QpOFA/TeTylKLWfB3ftPsde7AnmhuitiTX4K5SqCLBeKro6sPS8ilsz1Q4NRx3v8Ko2IBiszzdww=="
+    {{ with .Site.Params.libs.markjs }}
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/{{ .version }}/mark.min.js"
+        integrity="{{ .integrity }}"
         crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    {{ end }}
 
-    <script src="{{ "js/search.js" | absURL }}"></script>
+    {{ with resources.Get "js/search.js" | minify }}
+        {{ with resources.ExecuteAsTemplate "js/search.js" $ . }}
+            <script src="{{ .RelPermalink }}"></script>
+        {{ end }}
+    {{ end }}        
 </section>
 
 {{ end }}

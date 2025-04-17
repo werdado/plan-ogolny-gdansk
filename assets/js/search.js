@@ -1,16 +1,18 @@
 var summaryInclude = 300;
 var fuseOptions = {
     shouldSort: true,
+    ignoreDiacritics: true,
     includeMatches: true,
     includeScore: true,
     tokenize: true,
+    // ignoreLocation: true,
     location: 0,
     distance: 100,
-    minMatchCharLength: 1,
+    minMatchCharLength: 3,
     keys: [
-        { name: "title", weight: 0.45 },
-        { name: "contents", weight: 0.4 },
-        { name: "tags", weight: 0.1 },
+        { name: "title", weight: 0.01 },
+        { name: "contents", weight: 0.8 },
+        { name: "tags", weight: 0.14 },
         { name: "categories", weight: 0.05 }
     ]
 };
@@ -34,7 +36,7 @@ function executeSearch(searchQuery) {
 
     show(document.querySelector('.search-loading'));
 
-    fetch('/plan-ogolny-gdansk/index.json').then(function (response) {
+    fetch('{{ absURL "index.json" }}').then(function (response) {
         if (response.status !== 200) {
             console.log('Looks like there was a problem. Status Code: ' + response.status);
             return;
@@ -43,6 +45,7 @@ function executeSearch(searchQuery) {
         response.json().then(function (pages) {
             var fuse = new Fuse(pages, fuseOptions);
             var result = fuse.search(searchQuery);
+            console.log("Results length: " + result.length)
             if (result.length > 0) {
                 populateResults(result);
             } else {

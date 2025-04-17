@@ -16,3 +16,11 @@ title = 'Wnioski do Planu Ogólnego / Gdańsk'
 [params]
     index = "Rejestr wniosków"
     avatarImg = "images/werdado_sign.png"
+
+    [params.libs]
+        [params.libs.fusejs]
+            version = "7.1.0"
+            integrity = "sha512-H1bWCnc4dDJwdioqpOCkU76ZxEdvBvOy9R9Dd9EqftlzQg92owjX5IVdiOw00llAyQFUZJNPrzDnWZ/lZtf25A=="
+        [params.libs.markjs]
+            version = "8.11.1"
+            integrity = "sha512-5CYOlHXGh6QpOFA/TeTylKLWfB3ftPsde7AnmhuitiTX4K5SqCLBeKro6sPS8ilsz1Q4NRx3v8Ko2IBiszzdww=="
