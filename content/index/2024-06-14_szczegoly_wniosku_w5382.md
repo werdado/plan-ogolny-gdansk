@@ -2,8 +2,8 @@
 title = "Szczegóły wniosku W5382"
 date = "2024-06-14"
 source = "https://bip.brg.gda.pl/images/uploads/wnioski-do-planu-ogolnego/w5382.pdf"
-tags = ["wnioski-ogolne", "obręb: 0049"]
-geolinks = ["https://geoportal360.pl/map/#clk=226101_1.0049.372/14&stl=topo", "https://geoportal360.pl/map/#clk=226101_1.0049.372/1&stl=topo", "https://geoportal360.pl/map/#clk=226101_1.0049.368/11&stl=topo", "https://geoportal360.pl/map/#clk=226101_1.0049.368/1130&stl=topo"]
+tags = ["obręb: 0049", "wnioski-ogolne"]
+geolinks = ["https://geoportal360.pl/map/#clk=226101_1.0049.368/111&stl=topo", "https://geoportal360.pl/map/#clk=226101_1.0049.368/1130&stl=topo", "https://geoportal360.pl/map/#clk=226101_1.0049.372/1&stl=topo", "https://geoportal360.pl/map/#clk=226101_1.0049.372/130&stl=topo"]
 raw = "Składam wniosek, zgodnie z treścią punktów "
 +++
 

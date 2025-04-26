@@ -2,8 +2,8 @@
 title = "Szczegóły wniosku W1163"
 date = "2024-06-11"
 source = "https://bip.brg.gda.pl/images/uploads/wnioski-do-planu-ogolnego/w1163.pdf"
-tags = ["wnioski-ogolne"]
-geolinks = []
+tags = ["obręb: 0032", "wnioski-ogolne"]
+geolinks = ["https://geoportal360.pl/map/#clk=226101_1.0032.20/51&stl=topo"]
 raw = "ZWRACAM SIĘ Z UPRZEJMĄ PROŚBĄ O WPROWADZENIE DO MIEJSCOWEGO PLANU ZAGOSPODAROWANIA PRZESTRZENNEGO ZAPISU, ŻE NA DZIAŁCE GEOD. NR 20/5 OBRĘB 0032 GDAŃSK MOŻNA BUDOWAĆ BUDYNKI MIESZKALNO-USŁUGOWE O WYSOKOŚCI 130M. "
 +++
 

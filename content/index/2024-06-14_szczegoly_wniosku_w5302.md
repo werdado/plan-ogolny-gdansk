@@ -2,7 +2,7 @@
 title = "Szczegóły wniosku W5302"
 date = "2024-06-14"
 source = "https://bip.brg.gda.pl/images/uploads/wnioski-do-planu-ogolnego/w5302.pdf"
-tags = ["obręb: 0086", "wnioski-ogolne", "obręb: 2558"]
+tags = ["obręb: 0086", "obręb: 2558", "wnioski-ogolne"]
 geolinks = []
 raw = " wynosi 4000, natomiast w przypadku pkt "
 +++
