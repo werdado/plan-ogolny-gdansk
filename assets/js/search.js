@@ -1,3 +1,5 @@
+window.sa_event = window.sa_event || function () { var a = [].slice.call(arguments); window.sa_event.q ? window.sa_event.q.push(a) : window.sa_event.q = [a] };
+
 var summaryInclude = 300;
 var fuseOptions = {
     shouldSort: true,
@@ -35,6 +37,7 @@ if (inputBox !== null) {
 function executeSearch(searchQuery) {
 
     show(document.querySelector('.search-loading'));
+    sa_event("search_event", { query: searchQuery });
 
     fetch('{{ absURL "index.json" }}').then(function (response) {
         if (response.status !== 200) {
