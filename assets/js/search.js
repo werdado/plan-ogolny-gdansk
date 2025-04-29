@@ -84,6 +84,7 @@ function populateResults(results) {
             title: value.item.title,
             link: value.item.permalink,
             categories: value.item.categories,
+            source: value.item.source,
             snippet: snippet
         });
         searchResults.innerHTML += output;
